@@ -1,0 +1,32 @@
+{
+  "name": "hexo-theme-iat",
+  "version": "0.1",
+  "description": "Theme for Hexo",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaoshanliang/hexo-theme-iat.git"
+  },
+  "keywords": [
+    "iat",
+    "Hexo"
+  ],
+  "author": "iat <i@iat.net.cn>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yaoshanliang/hexo-theme-iat/issues"
+  },
+  "homepage": "https://github.com/yaoshanliang/hexo-theme-iat#readme",
+  "devDependencies": {
+    "coffee-script": "^1.10.0",
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.12.0",
+    "jshint-stylish": "^2.1.0"
+  }
+}
